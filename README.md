@@ -2,22 +2,22 @@
 
 ## Repository Introduction
 
-The WS63 series is a 2.4GHz Wi-Fi 6 NearLink multi-mode solution. Among them, the WS63E supports 2.4GHz radar human motion detection for home appliances, electrical lighting, and always-on IoT smart scenarios requiring detection of human presence. The fbb_ws63 code package is built on the unified development platform FBB (Family Big Box, a unified development framework and unified API). Applications developed on this platform can be easily ported to other NearLink solutions, effectively lowering the barrier for developers, shortening the development cycle, and supporting developers in rapidly building NearLink products. Online software documentation link: https://docs.hisilicon.com/repos/fbb_ws63/zh-CN/master/
+The YL63 series is a 2.4GHz Wi-Fi 6 NearLink multi-mode solution. Among them, the YL63E supports 2.4GHz radar human motion detection for home appliances, electrical lighting, and always-on IoT smart scenarios requiring detection of human presence. The fbb_ws63 code package is built on the unified development platform FBB (Family Big Box, a unified development framework and unified API). Applications developed on this platform can be easily ported to other NearLink solutions, effectively lowering the barrier for developers, shortening the development cycle, and supporting developers in rapidly building NearLink products. Online software documentation link: https://docs.hisilicon.com/repos/fbb_ws63/zh-CN/master/
 
 ## Directory Introduction
 
 | Directory | Description |
 | --------- | ----------- |
-| docs   | Contains software manuals, IO multiplexing tables, and user guide manuals to help users quickly get familiar with the WS63 series |
+| docs   | Contains software manuals, IO multiplexing tables, and user guide manuals to help users quickly get familiar with the YL63 series |
 | src    | SDK source package for development integration; users perform secondary development based on the source code |
 | tools  | Development tools and environment setup guide documents to help users set up the development environment |
 | vendor | Contains hardware and software materials for development boards from partner manufacturers, including case code, hardware schematics, and case development guide documents |
 
 ## Development Board Examples
 
-### HiHope_NearLink_DK_WS63E_V03
+### YL63E-DevKitC-1-N4
 
-The HiHope_NearLink_DK_WS63E_V03 provides the following demos for development reference:
+The YL63E-DevKitC-1-N4 provides the following demos for development reference:
 
 | Primary Category | Subcategory | Application Examples |
 | ------------ | ---------- | ----------- |

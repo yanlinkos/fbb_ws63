@@ -100,7 +100,7 @@ Prerequisite: SDK package download is currently divided into git download and ma
 
 - A. WS63 SDK download link: https://github.com/yanlinkos/fbb_ws63 . Click "Clone/Download" and select "Download ZIP" in the dialog box.
 
-  ![image-20251021150800671](../vendor/HiHope_NearLink_DK_WS63E_V03/doc/media/tools/image-2026-08-28 164816.png)
+  ![image-2026-08-28-164816](../vendor/HiHope_NearLink_DK_WS63E_V03/doc/media/tools/image-2026-08-28-164816.png)
 
 - B. After selecting to download the "ZIP", choose the directory to download to. Here, drive E is used as an example (**Note: the path level should not be too deep, within 260 characters, and must not contain Chinese directories**).
 

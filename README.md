@@ -2,7 +2,7 @@
 
 ## Repository Introduction
 
-The YL63 series is a 2.4GHz Wi-Fi 6 NearLink multi-mode solution. Among them, the YL63E supports 2.4GHz radar human motion detection for home appliances, electrical lighting, and always-on IoT smart scenarios requiring detection of human presence. The fbb_ws63 code package is built on the unified development platform FBB (Family Big Box, a unified development framework and unified API). Applications developed on this platform can be easily ported to other NearLink solutions, effectively lowering the barrier for developers, shortening the development cycle, and supporting developers in rapidly building NearLink products. Online software documentation link: https://docs.hisilicon.com/repos/fbb_ws63/zh-CN/master/
+The YL63 series is a 2.4GHz Wi-Fi 6 NearLink multi-mode solution. Among them, the YL63E supports 2.4GHz radar human motion detection for home appliances, electrical lighting, and always-on IoT smart scenarios requiring detection of human presence. The fbb_ws63 code package is built on the unified development platform FBB (Family Big Box, a unified development framework and unified API). Applications developed on this platform can be easily ported to other NearLink solutions, effectively lowering the barrier for developers, shortening the development cycle, and supporting developers in rapidly building NearLink products. 
 
 ## Directory Introduction
 

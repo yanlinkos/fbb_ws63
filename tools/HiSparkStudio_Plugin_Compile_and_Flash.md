@@ -88,7 +88,7 @@ Prerequisite: SDK package download is currently divided into git download and ma
 
 ![image-20251021145330518](../vendor/HiHope_NearLink_DK_WS63E_V03/doc/media/tools/image-20251021145330518.png)
 
-- D. Select the directory to download to and choose the save folder (**Note: the path level should not be too deep, within 260 characters, and must not contain Chinese directories**). VS Code will pop up a prompt in the bottom right corner indicating the SDK is currently downloading. If the wait is too long, it may be due to environment issues or lack of current gitee download permission; please check this yourself, and refer to step B of section 4.1 to configure environment variables.
+- D. Select the directory to download to and choose the save folder (**Note: the path level should not be too deep, within 260 characters, and must not contain Chinese directories**). VS Code will pop up a prompt in the bottom right corner indicating the SDK is currently downloading. If the wait is too long, it may be due to environment issues or lack of current github download permission; please check this yourself, and refer to step B of section 4.1 to configure environment variables.
 
   ![image-20251022112443853](../vendor/HiHope_NearLink_DK_WS63E_V03/doc/media/tools/image-20251022112443853.png)
 
@@ -98,9 +98,9 @@ Prerequisite: SDK package download is currently divided into git download and ma
 
 ### 4.2 Manual SDK Package Download
 
-- A. WS63 SDK download link: https://gitee.com/HiSpark/fbb_ws63 . Click "Clone/Download" and select "Download ZIP" in the dialog box.
+- A. WS63 SDK download link: https://github.com/yanlinkos/fbb_ws63 . Click "Clone/Download" and select "Download ZIP" in the dialog box.
 
-  ![image-20251021150800671](../vendor/HiHope_NearLink_DK_WS63E_V03/doc/media/tools/image-20251021150800671.png)
+  ![image-20251021150800671](../vendor/HiHope_NearLink_DK_WS63E_V03/doc/media/tools/image-2026-08-28 164816.png)
 
 - B. After selecting to download the "ZIP", choose the directory to download to. Here, drive E is used as an example (**Note: the path level should not be too deep, within 260 characters, and must not contain Chinese directories**).
 
